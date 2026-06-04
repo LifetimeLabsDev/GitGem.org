@@ -2,8 +2,6 @@
 
 This is the public issue tracker and feedback hub for **[GitGem.org](https://gitgem.org)**, a discovery platform for open source projects worth starring.
 
-**The GitGem app is closed-source.** This repository contains no application code. It exists so you can report bugs, request features, and start discussions in the open.
-
 ## Found a bug or have an idea?
 
 [**Open an issue**](https://github.com/LifetimeLabsDev/GitGem.org/issues/new/choose) and tell us:
