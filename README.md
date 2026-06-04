@@ -1,7 +1,5 @@
 # GitGem.org — Feedback & Issues
 
-[![GitGem](https://gitgem.org/api/badge/github/LifetimeLabsDev/GitGem.org.svg)](https://gitgem.org/github/LifetimeLabsDev/GitGem.org)
-
 This is the public issue tracker and feedback hub for **[GitGem.org](https://gitgem.org)**, a discovery platform for open source projects worth starring.
 
 ## Found a bug or have an idea?
