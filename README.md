@@ -2,6 +2,8 @@
 
 This is the public issue tracker and feedback hub for **[GitGem.org](https://gitgem.org)**, a discovery platform for open source projects worth starring.
 
+https://github.com/LifetimeLabsDev/GitGem.org
+
 ## Found a bug or have an idea?
 
 [**Open an issue**](https://github.com/LifetimeLabsDev/GitGem.org/issues/new/choose) and tell us:
